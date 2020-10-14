@@ -965,39 +965,7 @@ Correction de bugs que personne avait remarqué \(mouahaha\)
 Les bananes sont toujours là ne vous inquiétez pas juste il faut savoir les trouver :banana:  
 
 
-#### Correction de bugs  
-
-Aucun bug connu à corriger.
-
-### V0.0.5 
-
-#### Commandes ajoutées 
-
-!inventaire permet de voir le contenu de son inventaire
-
-!sell permet de vendre l'objet contenu dans votre reserve
-
-!switch permet d'échanger l'objet dans la reserve avec l'objet contenu dans la case "objet" de votre inventaire
-
-!top permet de voir le classement de tout les joueurs
-
-!help Première version de la commande permettant de voir la liste des commandes disponibles  
-
-
-#### Autres ajouts 
-
-3 Nouveaux évènements ont été rajoutés \(merci à @『 Azn9 » Axel 』  et @Invarion  pour leur propositions\)
-
-Quelques coquilles d'affichages ont été corrigées dans la commande !regen
-
-Il est désormais possible de trouver et ramasser des objets dans les rapports.
-
-\(pour l'instant les objets ne sont pas utilisable et sont donc juste des objets de collection mais plus tard ils auront un intérêt.  
-
-
-#### Correction de bugs  
-
-Aucun bug connu à corriger.  
+  
 
 
 
