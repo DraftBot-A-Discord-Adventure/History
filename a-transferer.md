@@ -1000,30 +1000,5 @@ Il est désormais possible de trouver et ramasser des objets dans les rapports.
 Aucun bug connu à corriger.  
 
 
-### V0.0.4
 
-####  Commandes ajoutées 
-
-!respawn - Permet de recommencer après être mort.  
-
-
-#### Autres ajouts 
-
-1 Nouvel évènement a été rajouté \(merci à @Greninja\_San  pour sa proposition\)
-
-La notion de mort a été ajoutée si vous tombez à 0pv vous perdrez 10% de vos points !
-
-Un nouvel état a été ajouté : endormi \( 😴 \) allez vous reposer à l'hôpital pour vous réveiller
-
-La commande !regen a été intégralement revue et affiche désormais le temps restant avant guérison.
-
-La durée de guérison a été mise à jour vers sa valeur normale.
-
-Les différents états ne mènent pas forcément à la même durée de guérison.
-
-Le système d'évent a été amélioré de manière à faciliter l'ajout de nouveaux évents
-
-Les commandes !banane et !random ont été supprimées  \(ou peut être pas ? :banana:\)
-
-Il n'est désormais plus possible d'utiliser le bot en message privé. Cette fonction sera refaite dans le futur.
 
