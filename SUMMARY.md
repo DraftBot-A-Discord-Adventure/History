@@ -12,6 +12,8 @@
 
 ## DraftBot V0
 
+* [0.0.7](draftbot-v0/0.0.7.md)
+* [0.0.6](draftbot-v0/0.0.6.md)
 * [0.0.5](draftbot-v0/0.0.5.md)
 * [0.0.4](draftbot-v0/0.0.4.md)
 * [0.0.3](draftbot-v0/0.0.3.md)

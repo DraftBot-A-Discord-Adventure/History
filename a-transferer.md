@@ -938,32 +938,9 @@ Changement du tag du bot \(\#0099 c'est mieux\)
 
 Changement du descriptif du bot \(on a compris que j'étais beau\)
 
-RESET COMPLET DE TOUT LES JOUEURS  
+RESET COMPLET DE TOUT LES JOUEURS
 
-
-#### Correction de bugs  
-
-Aucun bug connu à corriger.
-
-### V0.0.6 
-
-#### Commandes ajoutées 
-
-Aucune nouvelle commande, ceci est une toute petite mise à jour de maintenance, prochaine grosse mise à jour fin juin !  
-
-
-#### Autres ajouts 
-
-L'hôpital ne régen plus de vie, faites attention à vos action car il n'existe aucun moyen de gagner de la vie pour l'instant \(c'est prévu pour la prochaine mise à jour\)
-
-Correction de quelques fautes majeures \(j'ai pas eu le temps d'en faire beaucoup déso\)
-
-La commande Help est un peu améliorée \(mais le sera encore plus à la prochaine mise à jour
-
-Correction de bugs que personne avait remarqué \(mouahaha\)
-
-Les bananes sont toujours là ne vous inquiétez pas juste il faut savoir les trouver :banana:  
-
+###  
 
   
 
