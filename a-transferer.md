@@ -1027,25 +1027,3 @@ Les commandes !banane et !random ont été supprimées  \(ou peut être pas ? :b
 
 Il n'est désormais plus possible d'utiliser le bot en message privé. Cette fonction sera refaite dans le futur.
 
-### V0.0.3
-
-#### Commandes ajoutées
-
-`!random` - Permet d'avoir un nombre aléatoire entre 0 et 1  
-`!regen` - Permet de soigner les maladies et de récupérer un peu de vie
-
-#### Autres ajouts
-
-1 Nouvel évènement a été rajouté \(merci à Greninja\_San  pour sa proposition\)  
-La notion de maladies a été implémentée  
-Il est impossible de récupérer un rapport en étant malade ou en train de se faire soigner.  
-La commande !profile a été mise à jour pour permettre de savoir si le joueur est malade ou à hôpital  
-Le soin dure 50 secondes pour le moment mais cette durée sera allongée à 6 heures dans de futures mises à jour.  
-
-
-### V0.0.2
-
-#### 
-
-### 
-
