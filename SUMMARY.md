@@ -12,7 +12,7 @@
 
 ## DraftBot V0
 
-* [Untitled](draftbot-v0/untitled.md)
+* [0.0.1](draftbot-v0/untitled.md)
 
 ---
 
