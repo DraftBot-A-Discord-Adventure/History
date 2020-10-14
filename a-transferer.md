@@ -1045,31 +1045,7 @@ Le soin dure 50 secondes pour le moment mais cette durée sera allongée à 6 he
 
 ### V0.0.2
 
-#### Commandes ajoutées
+#### 
 
-`!rapport` - Permet d'avoir un rapport avec les éléments collectés pendant votre absence
-
-#### Autres ajouts
-
-2 Nouveaux évents Merci à la proposition de Super Banane Ninja  pour l'un d'entre eux.  
-Les évents apparaissent aléatoirement lors d'un rapport et peuvent être bénéfiques ou maléfiques.  
-Plus le temps entre 2 rapports est long plus les ressources collectés sont importantes. cependant au bout de 10 heures plus rien n'est collecté.  
-Plus le temps entre 2 rapports est long plus il y a de chances qu'un évent se produise.
-
-### V0.0.1
-
-#### Commandes ajoutées
-
-`!ping` - Tester si le bot est en ligne  
-`!banane` - Commande réalisée dans le but d'apprendre quelques base de la programmation de bot  
-`!profile` - Afficher les informations principales sur un joueur  
-`!reset`  - supprimer un joueur de la base de données  
-`!destroy` - Éteindre le bot   
-`!purge` - supprimer un certain nombre de messages  
-`!reload` - recharger une commande
-
-#### Autres ajouts
-
-Première version du système d'event  
-Mise en place de la base de données
+### 
 
