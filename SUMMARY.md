@@ -9,8 +9,6 @@
 
 ## DraftBot V1
 
-* [Untitled](draftbot-v1/untitled.md)
-
 ## DraftBot V0
 
 * [0.0.9](draftbot-v0/0.0.9.md)
