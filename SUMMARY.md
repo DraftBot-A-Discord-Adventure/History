@@ -17,6 +17,10 @@
 
 ## DraftBot V1
 
+---
+
+* [1.0.0](1.0.0.md)
+
 ## DraftBot V0
 
 * [0.0.9](draftbot-v0/0.0.9.md)
