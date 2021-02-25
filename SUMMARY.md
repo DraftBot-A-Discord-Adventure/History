@@ -4,6 +4,7 @@
 
 ## DraftBot v2
 
+* [2.1.5](draftbot-v2/2.1.5.md)
 * [2.1.4](draftbot-v2/2.1.4.md)
 * [2.1.3](draftbot-v2/2.1.3.md)
 * [2.1.2](draftbot-v2/2.1.2.md)
