@@ -8,3 +8,7 @@ Depuis les origines jusqu'aux dernières mises à jour, ce site vous permet de d
   
 Bonne lecture !
 
+{% hint style="info" %}
+Cliquez sur le bouton ci-dessous pour accèder aux nouveautés de la **dernière mise à jour !**
+{% endhint %}
+
