@@ -4,6 +4,7 @@
 
 ## DraftBot v2
 
+* [2.2.2](draftbot-v2/2.2.2.md)
 * [2.2.1](draftbot-v2/2.2.1.md)
 * [2.2.0](draftbot-v2/2.2.0.md)
 * [2.1.5](draftbot-v2/2.1.5.md)
@@ -19,7 +20,7 @@
 
 ## DraftBot V1
 
----
+***
 
 * [1.2.1](1.2.1.md)
 * [1.2.0](1.2.0.md)
@@ -41,7 +42,6 @@
 * [0.0.2](draftbot-v0/0.0.2.md)
 * [0.0.1](draftbot-v0/0.0.1.md)
 
----
+***
 
 * [A transferer](a-transferer.md)
-
