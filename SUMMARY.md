@@ -2,6 +2,10 @@
 
 * [Historique du bot](README.md)
 
+## DRAFTBOT V3
+
+* [3.0.0](draftbot-v3/3.0.0.md)
+
 ## DraftBot v2
 
 * [2.3.0](draftbot-v2/2.3.0.md)
@@ -24,6 +28,7 @@
 
 ***
 
+* [1.2.2](1.2.2.md)
 * [1.2.1](1.2.1.md)
 * [1.2.0](1.2.0.md)
 * [1.1.1](1.1.1.md)

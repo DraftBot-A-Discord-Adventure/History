@@ -1,159 +1,12 @@
 # A transferer
 
-### V2.0.2 
-
-####  Commandes ajoutées 
-
-friendlyfight (alias ff) - Permet de lancer un combat amical.
-
-sendlogs Permet aux contributeurs d’accéder aux raisons d'un crash
-
-servs Permet à l'owner du bot de lister les serveurs sur lequel le bot est présent.
-
-#### Autres ajouts 
-
-La commande help fonctionne désormais avec les alias des commandes.
-
-Voter pour le bot sur top.gg vous permettra d'obtenir un badge sur votre profil pendant 12 heures.
-
-Les points de combat (cœurs bleus) ne sont plus rendus immédiatement après la fin d'un combat.
-
-Amélioration du look de la commande help et ajout des alias dans les informations sur les commandes.
-
-Les évents sont vérifiés au démarrage du bot pour éviter les problèmes affrontés à la sortie de la 2.0.1.
-
-Lorsqu'un nouvel item remplace l'un des items d'un joueur dans son inventaire, l'ancien item est vendu.
-
-Ajout de 5 nouveaux items.
-
-Le bot répond avec des informations utiles lors que vous le mentionnez.
-
-L'attaque rapide fait 10 à 15% de dégats en moins.
-
-Les issues de certains évents ont été équilibrées.
-
-La commande senddata peut être faite par les contributeurs.
-
-Certains items ont été équilibrés (https://bit.ly/2PzxDc3)\
-
-
-####  Correction de bugs 
-
-Corrections de diverses erreurs notamment de typo sur certains évents/commandes.
-
-Le message d'erreur quand le joueur avait une altération d'état n'était pas correct.
-
-Le message d'erreur quand un joueur spécifique rejetais une demande de combat n'était pas correct.
-
-La blacklist des messages privés du bot ne fonctionnait pas.
-
-Certaines issues de certains évents avaient des problèmes
-
-Le calcul de la potion du jour avait une chance de faire planter le bot.
-
-Le message d'erreur du guilddaily n'était pas toujours correct.
-
-Des problèmes avec le calcul du niveau de certaines guildes sont apparus.
-
-La commande drink n'était pas bloquée pendant un shop.
-
-### V2.0.1 
-
-####  Commandes ajoutées 
-
-Ajout des 2 commandes admins délaissées lors de la 2.0.0 : resetBadge servers
-
-####  Autres ajouts 
-
-Remise en place des messages du bot dans la #💻-console
-
-Ajout de 5 nouveaux évents. (Merci au RG :heart: )
-
-Le bot owner bypass toutes les restrictions de permissions.
-
-Ajout du mode maintenance lors des mises à jour du bot. (bon c'était en 2.0.0 mais on l'utilise pas avant maintenant donc ca compte ok?)
-
-Les guildes peuvent désormais comporter jusqu'à 6 membres.
-
-Le message de blocage indique l'action qui vous empêche de continuer votre aventure.
-
-lorsqu'un joueur réclame un combat, ses statistiques sont affichées sur sa demande.\
-
-
-####  Correction de bugs 
-
-Certaines issues de l'évent 29 étaient manquantes.
-
-Les points de combat étaient calculés en fonction des points de vie et non de la vie maximale.
-
-Certains badges ne fonctionnaient pas sur le profile
-
-Bug d'affichage sur le boost de défense en combat
-
-Le GuildDaily pouvait être réinitialisé par des actions qui n'étaient pas censé le réinitialiser.
-
-Le mode tournois ne fonctionnait pas comme voulu.
-
-Les items n'étaient pas obtenus dans certaines conditions.
-
-Le texte du monde maintenance en anglais n'était pas implémenté.
-
-### V2.0.0 
-
-####  Commandes ajoutées 
-
-test Une commande utilisable seulement sur une version en développement destinée à faciliter les tests.
-
-####  Autres ajouts 
-
-Grosse amélioration des performances et de la stabilité.
-
-Passage en version 12 de discord js.
-
-Ajout d'un bouclier mythique.
-
-La commande shop affiche la quantité d'argent possédée par le joueur.
-
-Lorsqu'un joueur obtient un nouvel objet, il a désormais le choix de le conserver ou de le vendre.
-
-La commande prefix accepte maintenant les préfix de plusieurs caractères
-
-La commande guilddaily affiche le temps restant approximatif avant le prochain daily disponible.
-
-De nouveaux alias ont été ajoutés pour certaines commandes.
-
-Les potions sont vendues 30% moins cher dans le shop.
-
-L'apparence de certaines commandes a été améliorée.
-
-Le joueur qui joue en premier lors d'un combat est désormais choisi aléatoirement.
-
-Petit équilibrage des combats (https://bit.ly/3fbEhR7).
-
-Amélioration de la structure du bot facilitant grandement la collaboration.\
-
-
-#### Correction de bugs 
-
-Le soin des altérations d'état de la commande guilddaily soignait les joueurs en bonne santé.
-
-Les guildDaily ne donnait pas les items au bon joueur.
-
-Correction d'un bug d'affichage des potions et des objets d'avancées du temps
-
-Afficher une guild dont l'un des membres n'avait plus aucun serveur en commun avec le bot faisait crash le serveur
-
-Correction de divers problèmes d'affichage de certains textes en anglais.
-
-Correction de fautes d'orthographe.
-
 ### V1.5.1 
 
-####  Commandes ajoutées 
+#### &#x20;Commandes ajoutées 
 
 Aucune commande n'a été ajoutée pour cette mise à jour
 
-####  Autres ajouts 
+#### &#x20;Autres ajouts 
 
 Aucun ajout de cette mise à jour n'est permanent. Cette mise à jour est un patch temporaire visant à corriger des bugs ou exploit en attendant la prochaine grosse mise à jour.
 
@@ -162,7 +15,7 @@ Le guild daily ne donne plus d'item random pour les guilds ayant un niveau infé
 Les joueurs ayant plus de 10 000 points au classement de la semaine ne gagnent plus de points à la fin d'un combat.\
 
 
-####  Correction de bugs 
+#### &#x20;Correction de bugs 
 
 Les items ne sont pas donnés correctement lors d'un guilddaily.
 
@@ -182,7 +35,7 @@ guild \[nom de guilde ou mention] - Permet d'afficher les informations sur une g
 
 guilddaily Permet de récupérer des récompenses de guildes. Alias de la commande : gdaily ou gd
 
-####  Autres ajouts 
+#### &#x20;Autres ajouts 
 
 Ajout de 3 nouveaux évents
 
@@ -243,25 +96,25 @@ La liste n'a pas été faite pour les armures ( désolé 😃 )
 Aucune commande n'a été ajoutée pour cette mise à jour\
 
 
-####  Autres ajouts 
+#### &#x20;Autres ajouts 
 
 L'altération d'état :ghost: est donnée au bout de 7 jours consécutifs d'inactivité au lieu de 24 heures.
 
 L'altération d'état :zzz: Endormis a désormais pour émoji :sleeping:
 
-L'altération d'état :snowflake:  Gelé a désormais pour émoji :cold_face:
+L'altération d'état :snowflake:  Gelé a désormais pour émoji :cold\_face:
 
-Ajout d'une altération d'état : :zany_face: Ivre. Durée : 4h
+Ajout d'une altération d'état : :zany\_face: Ivre. Durée : 4h
 
 Il n'est plus possible d'utiliser la commande shop en étant :lock: Enfermé
 
-L'altération :head_bandage: Blessé dure désormais 6H et remplace l'altération :nauseated_face: Malade dans certains évents
+L'altération :head\_bandage: Blessé dure désormais 6H et remplace l'altération :nauseated\_face: Malade dans certains évents
 
 Event de l'arbre. Les :scissors: ont été remplacé par une :axe:
 
 Ajout de 7 nouveaux évents (Merci à :
 
-@Ninjissou (idée + rédaction de l'évent "chevalier noir") @Jaraxus (trad) @Lily (correction de trad) @QuenQuentin | QQ (idée + rédaction de l'évent "homme blessé en forêt") @Quichili (rédaction de l'évent "festin ferme") @Dandi_FFH (trad / correction de trad) @Twomatwo (god of fight) (idée + rédaction de l'évent "cadeau joueur") @Val (trad) @Ecrom (idée + rédaction de l'évent "bijoutier") @DeadAngelV6 (qui donne une putain de tonnes d'idées) -Tous les autres copains qui ont aidé en commentant et corrigeant des évents en rédaction @min'o (rédaction / correction de quelques-uns des évents + Ajout au bot)
+@Ninjissou (idée + rédaction de l'évent "chevalier noir") @Jaraxus (trad) @Lily (correction de trad) @QuenQuentin | QQ (idée + rédaction de l'évent "homme blessé en forêt") @Quichili (rédaction de l'évent "festin ferme") @Dandi\_FFH (trad / correction de trad) @Twomatwo (god of fight) (idée + rédaction de l'évent "cadeau joueur") @Val (trad) @Ecrom (idée + rédaction de l'évent "bijoutier") @DeadAngelV6 (qui donne une putain de tonnes d'idées) -Tous les autres copains qui ont aidé en commentant et corrigeant des évents en rédaction @min'o (rédaction / correction de quelques-uns des évents + Ajout au bot)
 
 Petits équilibrage des combats:
 
@@ -287,7 +140,7 @@ Le bot répondait parfois en anglais à un évent commencé en Français ou inve
 Ajout d'une commande admin pour modifier le score de la semaine des joueurs\
 
 
-####  Autres ajouts 
+#### &#x20;Autres ajouts 
 
 Augmentation du taux de réussite de l'attaque simple de 10 %
 
@@ -306,12 +159,12 @@ Correction d'un problème syntaxique sur un évent
 
 ### V1.4.2 
 
-####  Commandes ajoutées 
+#### &#x20;Commandes ajoutées 
 
 Ajout d'une commande admin ( destroy ) permettant de redémarrer le bot.\
 
 
-####  Autres ajouts 
+#### &#x20;Autres ajouts 
 
 Les propriétaires de serveurs ne recevront plus de messages privés de la part du bot lorsque ce dernier rejoint leur serveur.
 
@@ -365,7 +218,7 @@ Plusieurs objets ont été nerfs/buff :
 Amélioration de la formulation de quelques évents\
 
 
-####  Correction de bugs 
+#### &#x20;Correction de bugs 
 
 Correction de quelques fautes d'orthographe.
 
@@ -378,7 +231,7 @@ Réagir à un badge sous le profil de quelqu'un n'affichait plus la description 
 topweek Permet de visionner le classement de la semaine. Alias de la commande : tw ou topw\
 
 
-####  Autres ajouts 
+#### &#x20;Autres ajouts 
 
 Les combats font désormais 25 tours au lieu de 20.
 
@@ -439,7 +292,7 @@ Les attaques rapides sont moins affectées par la défense
 2 nouveaux #🏆-badges ont été ajoutés\
 
 
-####  Correction de bugs 
+#### &#x20;Correction de bugs 
 
 Certaines attaques pouvaient faire des dégâts à virgule.
 
@@ -597,7 +450,7 @@ Ajout d'une commande admin permettant de retirer des points à un joueur.\
 
 #### Autres ajouts 
 
-Ajout de nouveaux items de rareté UNIQUE :gem: 
+Ajout de nouveaux items de rareté UNIQUE :gem:&#x20;
 
 Il y a désormais 2 fois plus de chance d'obtenir une potion dans les rapports.
 
@@ -727,7 +580,7 @@ Crash lorsque le bot rejoins un nouveau serveur.
 
 ### V1.4.2 
 
-####  Commandes ajoutées 
+#### &#x20;Commandes ajoutées 
 
 Ajout d'une commande admin ( destroy ) permettant de redémarrer le bot.\
 
@@ -751,7 +604,7 @@ Ajout d'un fichier de config type et amélioration de l'implémentation de ce de
 Le shop est désormais un peu plus joli (Merci @Max )\
 
 
-####  Correction de bugs 
+#### &#x20;Correction de bugs 
 
 Correction de phrases non consistantes sur la partie anglaise.
 
@@ -771,7 +624,7 @@ Reduction des blocages de joueurs intempestifs
 
 ### V1.0.0 
 
-####  Commandes ajoutées 
+#### &#x20;Commandes ajoutées 
 
 !drink Permet de boire la potion que vous transportez\
 
