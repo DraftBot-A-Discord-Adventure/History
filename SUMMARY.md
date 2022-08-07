@@ -4,6 +4,7 @@
 
 ## DRAFTBOT V3
 
+* [3.0.1](draftbot-v3/3.0.1.md)
 * [3.0.0](draftbot-v3/3.0.0.md)
 
 ## DraftBot v2
