@@ -352,7 +352,21 @@ L'activité du bot a été mise à jour dans son profil discord\
 
 Correction de diverses fautes d'orthographe
 
-### V 
+### V1.2.5 
+
+#### Commandes ajoutées 
+
+prefix Permet aux administrateurs de serveurs de changer le préfix pour leur serveur ! alias de la commande cp\
+
+
+#### Autres ajouts 
+
+La commande aide a été mise à jour.
+
+Le système d'aide en dm est désormais en place
+
+L'activité du bot a été mise à jour dans son profil discord\
+
 
 #### Correction de bugs 
 
@@ -608,4 +622,97 @@ Suppression du gros lag du bot après un rapport
 
 Reduction des blocages de joueurs intempestifs
 
-###
+### V1.0.0 
+
+#### &#x20;Commandes ajoutées 
+
+!drink Permet de boire la potion que vous transportez\
+
+
+#### Autres ajouts 
+
+Réécriture complète du bot
+
+Suppression de la commande regen et levelup. Ces deux actions sont désormais automatiques
+
+Certaines commandes ont été renommées : rapport devient report, inventaire deviens inventory et combat devient fight
+
+Ajout d'alias pour certaines commandes : report a pour alias r , fight a pour alias f,  profile a pour alias p  et inventory a pour alias inv
+
+Possibilité pour les @Partner de changer le préfix de leur serveur via le salon #🗣-server-managers
+
+Le système de combat a été complétement revu
+
+Le système d'xp a été complètement revu
+
+Les pertes de temps sont mieux matérialisées
+
+Beaucoup de textes ont été réécris
+
+Ajout des badges ( #🏆-badges  pour plus de détails )
+
+La commande sell vous demande une confirmation avant la vente d'un objet
+
+Il y a désormais plus de 200 objets différents à trouver dans les évents
+
+Ajout de 3 nouveaux évents merci à @min'o @Eagle @DeadAngelV6 et @NoSkillMan
+
+Le chargement du top est désormais instantanée
+
+La commande topguilde a été supprimée
+
+Les easter eggs ont tous été supprimés GG à ceux qui en avaient trouvés\
+
+
+#### Correction de bugs 
+
+Tous.
+
+### V0.0.9 
+
+#### Commandes ajoutées 
+
+!daily Permet d'utiliser les pouvoirs de certains items.
+
+!invite Permet d'obtenir le lien pour ajouter le bot sur son serveur.\
+
+
+#### Autres ajouts 
+
+Ajout d'un message d'explication lorsque le bot rejoint un serveur. Le message est envoyé uniquement au propriétaire du serveur et uniquement si ses messages privés sont ouverts.
+
+Ajout de nouveaux éléments dans #💻-console
+
+Le bot quitte désormais automatiquement les serveurs ayant un % de bot trop élevé dans le but d'éviter les tentatives de triches.
+
+Il y a désormais 15 joueurs par page dans le top
+
+Ajout d'un conseil dans le message de bienvenue pour clarifier un peu les choses au début.
+
+Amélioration de certains passages de la commande !aide
+
+Les commandes !top et !profile préviennent maintenant que les données sont en train de charger
+
+Augmentation des gains à la vente d'un item avec la commande !sell
+
+Lancement d'un petit concours sur les easter eggs avec un item  :gem:  UNIQUE a gagner ! (voir #📣-annonces )
+
+Les joueurs pour lesquels un rapport est disponible sont indiqués dans le top
+
+Ajout d'une nouvel altération d'état:  mourant ( Vous allez adorer ( ou pas ) )
+
+Ajout de 2 nouveaux easter eggs
+
+Amélioration de certaines explications sur les évents
+
+Ajout de 2 nouveaux évents merci à @Séqui et à @nwcubeok pour leur suggestions.
+
+Le top affiche désormais les joueurs ayant un rapport en attente
+
+Il faut désormais être niveau 10 pour faire un combat
+
+La commande !levelup a été entièrement revue.
+
+Correction d'un nombre incalculable de fautes d'orthographe
+
+La commande  !regen a beaucoup été améliorée et le compteur des rapports reprend désormais pile poil au bout du temps de soin et non plus au moment de la sortie\
