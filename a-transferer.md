@@ -352,21 +352,7 @@ L'activité du bot a été mise à jour dans son profil discord\
 
 Correction de diverses fautes d'orthographe
 
-### V1.2.5 
-
-#### Commandes ajoutées 
-
-prefix Permet aux administrateurs de serveurs de changer le préfix pour leur serveur ! alias de la commande cp\
-
-
-#### Autres ajouts 
-
-La commande aide a été mise à jour.
-
-Le système d'aide en dm est désormais en place
-
-L'activité du bot a été mise à jour dans son profil discord\
-
+### V 
 
 #### Correction de bugs 
 
