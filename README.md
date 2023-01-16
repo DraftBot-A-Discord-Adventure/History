@@ -2,7 +2,7 @@
 
 Bienvenue sur la page d'accueil du centre historique de DraftBot.
 
-![Le bot à ses débuts 😍 ](<.gitbook/assets/image (106).png>)
+![Le bot à ses débuts 😍 ](<.gitbook/assets/image (89).png>)
 
 Depuis les origines jusqu'aux dernières mises à jour, ce site vous permet de découvrir tous les secrets de DraftBot et toute l'histoire de chacune des fonctionnalités ! \
 \
