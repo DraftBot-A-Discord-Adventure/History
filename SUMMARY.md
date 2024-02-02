@@ -4,6 +4,7 @@
 
 ## DRAFTBOT V4
 
+* [4.5.3](draftbot-v4/4.5.3.md)
 * [4.5.2](draftbot-v4/4.5.2.md)
 * [4.5.1](draftbot-v4/4.5.1.md)
 * [4.5.0](draftbot-v4/4.5.0.md)
