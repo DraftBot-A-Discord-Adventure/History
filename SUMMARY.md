@@ -2,6 +2,10 @@
 
 * [Historique du bot](README.md)
 
+## DRAFTBOT V5
+
+* [5.0.0](draftbot-v5/5.0.0.md)
+
 ## DRAFTBOT V4
 
 * [4.5.4](draftbot-v4/4.5.4.md)
