@@ -4,6 +4,7 @@
 
 ## DRAFTBOT V5
 
+* [5.1.0](draftbot-v5/5.1.0.md)
 * [5.0.1](draftbot-v5/5.0.1.md)
 * [5.0.0](draftbot-v5/5.0.0.md)
 
