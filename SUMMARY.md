@@ -4,6 +4,7 @@
 
 ## Crownicles V5
 
+* [5.2.5](crownicles-v5/5.2.5.md)
 * [5.2.4](crownicles-v5/5.2.4.md)
 * [5.2.3](crownicles-v5/5.2.3.md)
 * [5.2.2](crownicles-v5/5.2.2.md)
