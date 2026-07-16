@@ -2,6 +2,10 @@
 
 * [Historique du bot](README.md)
 
+## CROWNICLES V6
+
+* [6.0.0](crownicles-v6/6.0.0.md)
+
 ## Crownicles V5
 
 * [5.3.1](crownicles-v5/5.3.1.md)
